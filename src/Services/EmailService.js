@@ -14,7 +14,7 @@ class EmailService {
         var mailOptions = {
             from: 'atu.cr92@gmail.com',
             to: email,
-            subject: 'Happy birthday!',
+            subject: 'Happy birthday!!',
             text: 'Happy birthday, dear '+ name +'! :)!'
         };
 
