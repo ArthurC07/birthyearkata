@@ -10,7 +10,7 @@ class EmailService {
                     pass: '111'
             }
         });
-
+  
         var mailOptions = {
             from: 'atu.cr92@gmail.com',
             to: email,
